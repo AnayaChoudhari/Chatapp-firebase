@@ -1,4 +1,4 @@
-# ChatNexa: Flutter & Firebase Group Chat App
+## ChatNexa: Group Chat App
 
 ChatNexa is a versatile group chat application built with Flutter and Firebase, providing a seamless experience for users to join or leave groups, engage in group discussions, and explore the profiles of fellow participants.
 
